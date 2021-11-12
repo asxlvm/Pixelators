@@ -1,5 +1,5 @@
 # Space Evaders (basic name, it will get changed quite a few times)
-## A space-shooter pixel art game made in Python with Pygame
+## A space-shooter pixel art game made in [Python](https://github.com/python/cpython) with [Pygame](https://github.com/pygame/pygame)
 
 ## Important
 > This game is still in the very early stage of development, the pixel art isn't done at all, nor is the code, I'm just implementing the needed stuff for now
