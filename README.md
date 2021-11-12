@@ -5,6 +5,7 @@
 > This game is still in the very early stage of development, the pixel art isn't done at all, nor is the code, I'm just implementing the needed stuff for now
 
 ## TODO list:
+- [x] Framerate independency
 - [x] Bullet projectiles shooting at a spread pattern (only thing I had to do was get a random int from the spread range with `random.randint(-spread, spread)` and added it to the X and Y pos of the bullet rect
 - [ ] Gas mechanic, the next round starts only when the player has killed every enemy rocket, so that the game can be endless without the need for levels
 - [ ] Small shake when destroying an enemy rocket
